@@ -1,7 +1,7 @@
 phonegap-questions
 ==================
 
-Send me your questions about PhoneGap / Apache Cordova (with a focus on iOS) here in the [issue tracker](https://github.com/shazron/phonegap-questions/issues). Questions - not bug reports, those should go in the Cordova Issue Tracker [http://issues.cordova.io](http://issues.cordova.io), where any dev can respond to it.
+Send me your questions about PhoneGap / Apache Cordova (with a focus on iOS) here in the [issue tracker](https://github.com/shazron/phonegap-questions/issues) (don't forget to search the [closed issues](https://github.com/shazron/phonegap-questions/issues?page=1&state=closed) as well). Questions - not bug reports, those should go in the Cordova Issue Tracker [http://issues.cordova.io](http://issues.cordova.io), where any dev can respond to it.
 
 I may put a FAQ in here as well once I accumulate more questions.
 
